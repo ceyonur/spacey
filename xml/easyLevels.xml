@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<levels>
+	<level>
+		<levelno>1</levelno>
+		<finishscore>100</finishscore>
+		<enemies>
+			<enemy>
+				<radius>40</radius>
+				<colour>GRAY</colour>
+				<health>10</health>
+				<attackpower>5</attackpower>
+				<bulletspeed>250</bulletspeed>
+				<type>Enemy1</type>
+				<xPos>40</xPos>
+				<yPos>40</yPos>
+			</enemy>
+		</enemies>
+	</level>
+	<level>
+		<levelno>2</levelno>
+		<finishscore>200</finishscore>
+		<enemies>
+			<enemy>
+				<radius>40</radius>
+				<colour>WHITE</colour>
+				<health>20</health>
+				<attackpower>5</attackpower>
+				<bulletspeed>250</bulletspeed>
+				<type>Enemy2</type>
+				<xPos>940</xPos>
+				<yPos>40</yPos>
+			</enemy>
+		</enemies>
+	</level>
+				
+				<level>
+		<finishscore>300</finishscore>
+		<enemies><enemy>
+				<radius>40</radius>
+				<colour>RED</colour>
+				<health>20</health>
+				<attackpower>5</attackpower>
+				<bulletspeed>250</bulletspeed>
+				<type>Enemy3</type>
+				<xPos>940</xPos>
+				<yPos>40</yPos></enemy>
+				</enemies><levelno>3</levelno></level>
+				
+				<level>
+		<finishscore>300</finishscore>
+		<enemies>
+			<enemy>
+				<radius>100</radius>
+				<colour>GRAY</colour>
+				<health>20</health>
+				<attackpower>50</attackpower>
+				<bulletspeed>500</bulletspeed>
+				<type>Boss</type>
+				<xPos>40</xPos>
+				<yPos>40</yPos></enemy>				
+				</enemies>
+		<levelno>4</levelno></level>
+</levels>
+
+		
+
+
